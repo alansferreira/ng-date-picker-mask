@@ -1,6 +1,6 @@
 {
   "name": "ng-date-picker-mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom datepicker from angular material with ngMask and momentjs",
   "main": "ng-date-picker-mask.js",
   "scripts": {
