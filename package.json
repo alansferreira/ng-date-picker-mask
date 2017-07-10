@@ -1,0 +1,19 @@
+{
+  "name": "ng-date-picker-mask",
+  "version": "1.0.0",
+  "description": "custom datepicker from angular material with ngMask and momentjs",
+  "main": "ng-date-picker-mask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alansferreira/ng-date-picker-mask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alansferreira/ng-date-picker-mask/issues"
+  },
+  "homepage": "https://github.com/alansferreira/ng-date-picker-mask#readme"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ng-date-picker-mask",
+  "homepage": "https://github.com/alansferreira/ng-date-picker-mask",
+  "authors": [
+    "Alan <alan.da.silva.ferreira@hotmail.com>"
+  ],
+  "description": "custom datepicker from angular material with ngMask and momentjs",
+  "main": "ng-datepicker-mask.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ], 
+  "dependencies": {
+    "momentjs": "latest", 
+    "angular-material": "latest", 
+    "angular-moment": "latest",
+    "angular-mask": "latest"
+  }
+}
