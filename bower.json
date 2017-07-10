@@ -6,7 +6,7 @@
     "Alan <alan.da.silva.ferreira@hotmail.com>"
   ],
   "description": "custom datepicker from angular material with ngMask and momentjs",
-  "main": "ng-datepicker-mask.js",
+  "main": "src/ng-datepicker-mask.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
